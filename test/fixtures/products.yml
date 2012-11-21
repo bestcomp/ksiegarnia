@@ -3,11 +3,17 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
-  price: 9.99
+  image_url: http://ecx.images-amazon.com/images/I/51wp1eHVwdL._SL135_.jpg
+  price: 7.99
 
 two:
-  title: MyString
+  title: My Books
   description: MyText
-  image_url: MyString
+  image_url: http://ecx.images-amazon.com/images/I/51e5r0yV5AL._SL135_.jpg
+  price: 19.99
+
+tree:
+  title: Moja ksiazka
+  description: MyText
+  image_url: http://ecx.images-amazon.com/images/I/41acuofCjWL._SL135_.jpg
   price: 9.99
